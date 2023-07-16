@@ -1,0 +1,21 @@
+div.solid {border-style: solid; height: 380px;}
+#signaturename {
+    text-align: end;
+    margin-top: 35px;
+    margin-right: 40px;
+    font-weight: bold;
+    font-size: 115%;
+  }
+
+  label {
+    margin-left: 10px;
+  }
+
+  .grid-container {
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: space-between;
+  }
